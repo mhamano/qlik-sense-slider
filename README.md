@@ -8,7 +8,7 @@ Qlik Sense extension for a slider object.
 
 ## Installation
 
-1. Download the latest version from [here](./build/release).
+1. Download the latest version.
 2. Qlik Sense Desktop
 	* To install, copy all files in the .zip file to folder "C:\Users\[%Username%]\Documents\Qlik\Sense\Extensions\Qlik-Sense-Chartjs"
 3. Qlik Sense Server
